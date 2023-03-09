@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(10, 105, 152);
+}
+h3{
+    color:gold;
+}
+h2{
+    color: gold;
+}
+
+h1{
+    color: gold;
+    z-index: 1;
+    font-size: 40px;
+    text-shadow: 2px 2px red;
+}
+
+
+
+p{
+    color: blue;
+}
+ul{
+    color: blue;
+}
+table{
+    color: blue;
+}
+
+hr{
+    display: block;
+    border-color: gray;
+    border-style: dotted;
+    border-top-style: none;
+    border-width: 10px;
+    width: 60%;
+}  
+img{
+    display: block;
+    border-radius: 60%;
+    
+}   
